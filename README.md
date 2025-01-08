@@ -128,7 +128,6 @@ Ensure each node meets the following minimum requirements:
    sudo apt update
    sudo apt install python3-pip -y
    pip3 install --upgrade pip
-   pip3 install ansible==2.14 jinja2==2.11 netaddr
    ```
 
 2. **Clone the Kubespray Repository**:
